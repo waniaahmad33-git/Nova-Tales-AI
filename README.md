@@ -142,14 +142,6 @@ The platform uses Artificial Intelligence for:
 
 ## 🛠 Technologies Used
 
-• React
-
-• TypeScript
-
-• Tailwind CSS
-
-• Vite
-
 • Lovable AI
 
 • OpenAI GPT
